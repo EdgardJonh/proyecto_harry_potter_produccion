@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkharry_potter_proyecto_api"]=self["webpackChunkharry_potter_proyecto_api"]||[]).push([[443],{507:function(t,r,e){e.r(r),e.d(r,{default:function(){return o}});var n=function(){var t=this;t._self._c;return t._m(0)},u=[function(){var t=this,r=t._self._c;return r("div",{staticClass:"about"},[r("h1",[t._v("This is an about page")])])}],a=e(1),s={},i=(0,a.Z)(s,n,u,!1,null,null,null),o=i.exports}}]);
+//# sourceMappingURL=about.a8546142.js.map
